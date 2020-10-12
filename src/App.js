@@ -9,10 +9,13 @@ export default function App() {
   return (
     <div>
       <Parent name="kaveh" family="karami" >
+      
         <Child>
             <NestedChild1 />
         </Child>
+
         <Child2 />
+
       </Parent>
     </div>
   );
