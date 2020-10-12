@@ -4,7 +4,7 @@ const Child = (props) => {
   console.log('Children Props(recived from Parent Props): ', props)
   
   return(
-    <div>{props.name}</div>
+    <div>my name is {props.name}</div>
   )
 }
 
