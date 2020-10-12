@@ -6,7 +6,7 @@ const Parent = (props) => {
   return(
     <div>
       {React.Children.map(props.children, (child) => {
-          return React.cloneElement(child,[props.name])
+          return React.cloneElement(child,{name: props.name})
       })}
     </div>
   )
