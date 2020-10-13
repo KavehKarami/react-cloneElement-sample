@@ -1,6 +1,6 @@
 # react-cloneElement
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-cloneemelemt)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-cloneelement)
 
 ### How to Pass Parent Element props to props.childern or this.props.children?
 
